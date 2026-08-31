@@ -1,2 +1,1 @@
 # sessoesdemovimento
-    cloud code instaled
